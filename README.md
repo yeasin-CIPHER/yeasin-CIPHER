@@ -1,9 +1,9 @@
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=250&section=header&text=YEASIN%20ARAFAT&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Mobile%20Architect%20%E2%80%A2%20Backend%20Innovator&descAlignY=60&descSize=20"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=250&section=header&text=YEASIN%20ARAFAT&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Mobile%20DEV%20%E2%80%A2%20Backend%20Innovator&descAlignY=60&descSize=20"/>
   
 <div align = "center">
     <a href="https://github.com/yeasin-CIPHER" >
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=4000&pause=1000&color=F093FB&center=true&vCenter=true&width=800&lines=Hey%2C+I'm+Yeasin+Arafat+%F0%9F%91%8B;Mobile+Development+Architect+%F0%9F%93%B1;Backend+API+%F0%9F%94%A7;Building+Tomorrow's+Apps+Today+%F0%9F%9A%80" alt="Typing Animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=4000&pause=1000&color=F093FB&center=true&vCenter=true&width=800&lines=Hey%2C+I'm+Yeasin+Arafat+%F0%9F%91%8B;Android+Mobile+Developer+%F0%9F%93%B1;Backend+API+%F0%9F%94%A7;Building+Tomorrow's+Apps+Today+%F0%9F%9A%80" alt="Typing Animation" />
   </a>
 </div>
 
