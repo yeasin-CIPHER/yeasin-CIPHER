@@ -27,14 +27,6 @@
   </a>
 </div>
 
-## 🌐 Connect & Collaborate
-
-<p align="center">
-  <a href="https://discord.gg/arafat01180"><img src="https://img.shields.io/badge/Discord-arafat01180-%237289DA.svg?logo=discord&logoColor=white&style=for-the-badge&animation=spin"/></a>
-  <a href="https://facebook.com/ap2k21"><img src="https://img.shields.io/badge/Facebook-Connect-%231877F2.svg?logo=Facebook&logoColor=white&style=for-the-badge&animation=pulse"/></a>
-  <a href="https://linkedin.com/in/yeasin-arafat-75216b244"><img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge&animation=glitch"/></a>
-</p>
-
 ***
 
 
@@ -47,7 +39,7 @@
   <img src="https://img.shields.io/badge/Android-85%25-green?style=for-the-badge&logo=android&logoColor=white" />
   <img src="https://img.shields.io/badge/Django-70%25-darkgreen?style=for-the-badge&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLite-80%25-orange?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST%20API-75%25-red?style=for-the-badge&logo=postman&logoColor=white" />
+ <img src="https://img.shields.io/badge/Room%20Database-85%25-764ba2?style=for-the-badge&logo=sqlite&logoColor=white" />
 </p>
 
 ### 💡 Tech Stack (Quick View)
