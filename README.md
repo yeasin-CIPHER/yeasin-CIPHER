@@ -1,12 +1,11 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Yeasin%20Arafat&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Android%20Developer%20%7C%20Django%20Explorer&descAlignY=51&descAlign=62)
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3596F5&background=00000000&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Yeasin+Arafat;Architect+of+Mobile+Apps+%F0%9F%93%B1;Django+API+Explorer+%F0%9F%90%8D;Open+Source+Contributor+%F0%9F%9A%80" alt="Typing Animation" />
-</h1>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yeasin-CIPHER&label=Profile%20Views&color=blueviolet&style=flat-square" alt="yeasin-CIPHER" />
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=250&section=header&text=YEASIN%20ARAFAT&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Mobile%20Architect%20%E2%80%A2%20Backend%20Innovator&descAlignY=60&descSize=20"/>
+  
+<div align = "center">
+    <a href="https://github.com/yeasin-CIPHER" >
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=4000&pause=1000&color=F093FB&center=true&vCenter=true&width=800&lines=Hey%2C+I'm+Yeasin+Arafat+%F0%9F%91%8B;Mobile+Development+Architect+%F0%9F%93%B1;Backend+API+%F0%9F%94%A7;Building+Tomorrow's+Apps+Today+%F0%9F%9A%80" alt="Typing Animation" />
+  </a>
+</div>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
@@ -18,9 +17,15 @@
 * 🗺️ Currently exploring the power of **Django REST Framework** to architect robust backend APIs.
 * 🧠 **Always learning** and diving deep into new development paradigms and best practices.
 * 😄 Pronouns: **He/Him**
-* ⚡ Fun fact: *The semicolon ";" has caused more bugs than viruses, but I've learned to be friends with it! 😉*
 
 ***
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0:F093FB,100:667EEA&height=50&text=⚡%20Fun Fact...&fontSize=10&fontColor=fff&animation=twinkling&fontAlignY=50" width="100%" />
+  
+  <a href="https://github.com/yeasin-CIPHER">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2500&pause=1000&color=33FFCC&background=0D1117&center=false&vCenter=false&width=600&height=220&lines=object+YeasinArafat+%3A+MobileArchitect()+%7B;+++++val+ORIGIN+%3D+%22Bangladesh+%F0%9F%A7%AD%22;++++var+caffeineLevel+%3D+%22HIGH+%E2%98%95%EF%B8%8F%22;++++;++++fun+dailyMission()+%3D+listOf(;++++++++%22Eat%22%2C+%22Sleep%22%2C+%22Code+Kotlin+%F0%9F%92%9C%22%2C+%22Repeat+%F0%9F%94%81%22;++++);%7D" alt="Typing Code" />
+  </a>
+</div>
 
 ## 🌐 Connect & Collaborate
 
@@ -31,6 +36,8 @@
 </p>
 
 ***
+
+
 
 ## 🛠️ Core Skills (The Developer Toolkit)
 
