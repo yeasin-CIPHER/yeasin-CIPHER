@@ -1,8 +1,7 @@
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=250&section=header&text=YEASIN%20ARAFAT&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Passonet in Tech%20DEV%20%E2%80%A2%20%20Innovator&descAlignY=60&descSize=20"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=250&section=header&text=YEASIN%20ARAFAT&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Passionate%20in%20Tech%20DEV%20%E2%80%A2%20%20Innovator&descAlignY=60&descSize=20"/>
   
-<div align = "center">
-    <a href="https://github.com/yeasin-CIPHER" >
+<div align="center">
+    <a href="https://github.com/yeasin-CIPHER">
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=4000&pause=1000&color=F093FB&center=true&vCenter=true&width=800&lines=Hey%2C+I'm+Yeasin+Arafat+%F0%9F%91%8B;+%F0%9F%93%B1;+%F0%9F%94%A7;Building+Tomorrow's+Apps+Today+%F0%9F%9A%80" alt="Typing Animation" />
   </a>
 </div>
@@ -13,14 +12,14 @@
 
 ## 🚀 About Me - The Journey So Far
 
-* 🔥 Passionate about building **high-quality, scalable Android applications** using Kotlin.
-* 🗺️ Currently exploring the power of **Django REST Framework** to architect robust backend APIs.
-* 🧠 **Always learning** and diving deep into new development paradigms and best practices.
-* 😄 Pronouns: **He/Him**
+- 🔥 Passionate about building **high-quality, scalable Android applications** using Kotlin.
+- 🗺️ Currently exploring the power of **Django REST Framework** to architect robust backend APIs.
+- 🧠 **Always learning** and diving deep into new development paradigms and best practices.
+- 😄 Pronouns: **He/Him**
 
 ***
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0:F093FB,100:667EEA&height=50&text=⚡%20Fun Fact...&fontSize=10&fontColor=fff&animation=twinkling&fontAlignY=50" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0:F093FB,100:667EEA&height=50&text=⚡%20Fun%20Fact...&fontSize=10&fontColor=fff&animation=twinkling&fontAlignY=50" width="100%" />
   
   <a href="https://github.com/yeasin-CIPHER">
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2500&pause=1000&color=33FFCC&background=0D1117&center=false&vCenter=false&width=600&height=220&lines=object+YeasinArafat+%3A+MobileArchitect()+%7B;+++++val+ORIGIN+%3D+%22Bangladesh+%F0%9F%A7%AD%22;++++var+caffeineLevel+%3D+%22HIGH+%E2%98%95%EF%B8%8F%22;++++;++++fun+dailyMission()+%3D+listOf(;++++++++%22Eat%22%2C+%22Sleep%22%2C+%22Code+Kotlin+%F0%9F%92%9C%22%2C+%22Repeat+%F0%9F%94%81%22;++++);%7D" alt="Typing Code" />
@@ -28,8 +27,6 @@
 </div>
 
 ***
-
-
 
 ## 🛠️ Core Skills (The Developer Toolkit)
 
@@ -39,7 +36,7 @@
   <img src="https://img.shields.io/badge/Android-85%25-green?style=for-the-badge&logo=android&logoColor=white" />
   <img src="https://img.shields.io/badge/Django-70%25-darkgreen?style=for-the-badge&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLite-80%25-orange?style=for-the-badge&logo=sqlite&logoColor=white" />
- <img src="https://img.shields.io/badge/Room%20Database-85%25-764ba2?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Room%20Database-85%25-764ba2?style=for-the-badge&logo=sqlite&logoColor=white" />
 </p>
 
 ### 💡 Tech Stack (Quick View)
